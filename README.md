@@ -1,2 +1,2 @@
 # ALGORITHMS
-Styled C++ - NumberOfKPaths.cpp
+Styled C++ - NumberOfKLengthPath.cpp
